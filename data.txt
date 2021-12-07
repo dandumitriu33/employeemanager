@@ -1,0 +1,28 @@
+{
+	"email": "daniel@email.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+	"jobTitle": "JavaScript",
+	"name": "Daniel Craig",
+	"phone": "433 500 1212"
+},
+{
+	"email": "christine@email.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+	"jobTitle": "UX/UI",
+	"name": "Christine Smith",
+	"phone": "412 500 1212"
+},
+{
+	"email": "dave@email.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+	"jobTitle": "Java",
+	"name": "Daniel Rogers",
+	"phone": "313 500 1212"
+},
+{
+	"email": "andy@email.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+	"jobTitle": "SQL",
+	"name": "Andy Maxwell",
+	"phone": "113 500 1212"
+}
